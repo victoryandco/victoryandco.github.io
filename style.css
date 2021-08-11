@@ -120,7 +120,7 @@ body {
 .site-banner .banner-area .author .author-img {
     width:300px;
     height: 300px;
-    border-radius:50%;
+    border-radius:20%;
     margin: auto;
     background:url(./assets/img/avatar/1.jpg)no-repeat;
     background-size:100%;
